@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/gmlarumbe/tree-sitter-systemverilog",
+  "lang": "systemverilog",
   "semver": false,
   "parser_version": "293928578cb27fbd0005fcc5f09c09a1e8628c89",
-  "lang": "systemverilog",
-  "location": null
+  "location": null,
+  "url": "https://github.com/gmlarumbe/tree-sitter-systemverilog"
 }
